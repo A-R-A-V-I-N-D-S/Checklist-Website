@@ -61,10 +61,20 @@
     font-size: 19px;
 }
 
+.forgot-password{
+    color: #797979;
+    font-size: 18px;
+}
+
+.forgot-password span{
+    color: #4c00b3;
+    cursor: pointer;
+}
+
 .submit-container{
     display: flex;
     gap: 30px;
-    margin: 60px auto;
+    margin: 20px auto;
 }
 
 .submit{
@@ -79,4 +89,9 @@
     font-size: 20px;
     font-weight: 700;
     cursor: pointer;
+}
+
+.gray{
+    background: #eaeaea;
+    color: #676767;
 }

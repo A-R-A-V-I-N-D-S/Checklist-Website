@@ -7,8 +7,8 @@ import UploadComponent from "./Components/FormComponent/UploadComponent";
 function App() {
   return (
     <div className="App">
-      <UploadComponent/>
-      {/* <FormComponent/> */}
+      {/* <UploadComponent/> */}
+      <FormComponent/>
     </div>
   );
 }
